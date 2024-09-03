@@ -36,7 +36,7 @@ app.listen(port, () => {
 
 
 
-const statusMessages = ["Features coming soon!","Soon im the best Pulling Bot!"]; /** do what you want here*/
+const statusMessages = ["PNST","Simson = Love","Pößneck Simson Tuning","PNST Bots","PNST Community","S51","S50","SR","Schwalbe","TikTok: @pnstoffiziell","Insta: @pnstoffiziell","YouTube: @ostpnst","X: @1PNST"]; /** do what you want here*/
 
 
 let currentIndex = 0;
